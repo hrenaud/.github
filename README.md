@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm renaud 
 #### Founder of NovaGaïa agency
-![Founder of NovaGaïa agency](https://novagaia.fr)
+![Founder of NovaGaïa agency](https://novagaia.fr/wp-content/uploads/2020/09/Full_Dark_Logo_187x36.png)
 
 NovaGaïa is an agency that creates high-performance, optimized and eco-responsible websites. We are also a consultant in eco-design of websites 🌱
 
