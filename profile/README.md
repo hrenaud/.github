@@ -3,7 +3,7 @@
 
 NovaGaïa is an agency that creates high-performance, optimized and eco-responsible websites. We are also a consultant in eco-design of websites 🌱
 
-Skills: `GatsbyJS` / `Strapi` / `React` / `Tailwindcss / `WordPress` / `WooCommerce` / `HTML` / `CSS`
+Skills: `GatsbyJS` / `Strapi` / `React` / `Tailwindcss` / `WordPress` / `WooCommerce` / `HTML` / `CSS`
 
 - 🔭 I’m currently working on Script for jelastic to automatically install a whole Gatby/Strapi/NGINX stack 
 - 🌱 I’m currently learning Cloud scripting 
